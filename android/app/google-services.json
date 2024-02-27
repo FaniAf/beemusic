@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019686533564",
+    "project_id": "beemusic-project",
+    "storage_bucket": "beemusic-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019686533564:android:7a428626a979e718cf93b9",
+        "android_client_info": {
+          "package_name": "com.techabibie.beemusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpEq3nsiK8E2AE_RL0JbKWeuEYDytXtWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
